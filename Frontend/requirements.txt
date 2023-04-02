@@ -1,0 +1,13 @@
+SQLAlchemy==1.4.40
+Flask
+flask_restx
+pandas
+numpy
+streamlit
+plotly.express
+streamlit_authenticator
+altair
+requests
+yaml.loader
+gunicorn
+PyMySQL==1.0.2

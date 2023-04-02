@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    Sebastian:
+      email: sebastian.viehhofer@student.ie.edu
+      name: Sebastian
+      password: $2b$12$Cn2OsaKnaZKbRMIfbSVSVe5F2KQIkMAzypGE3KZaXe7qTTak1D94G 
+cookie:
+  expiry_days: 10
+  key: vfPwNzLyC0
+  name: Capstone
+preauthorized:
+  emails:
+  - sebastian.viehhofer@student.ie.edu 
